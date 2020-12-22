@@ -1,0 +1,29 @@
+#form {
+  background: #13134b !important;
+  color: white !important;
+  margin: 4px;
+  padding: 2rem;
+  border: 2px solid royalblue;
+  width: 400px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.main-title {
+  font-weight: 900;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 3em;
+}
+
+.main-p {
+  line-height: 2em;
+  font-size: 1em;
+  font-weight: 500;
+}
